@@ -46,4 +46,4 @@ This project is a Attrition Dashboard made in Power BI. The aim of this dashboar
 
 ## Opening the file
 
-Open the Attrition Dashboard.pbix file in Power BI Desktop.
+Open the `Attrition Dashboard.pbix` file in Power BI Desktop.
