@@ -13,16 +13,37 @@ This project is a Attrition Dashboard made in Power BI. The aim of this dashboar
 
 <img src="SS/1.png" alt="Main">
 
+<p align="center">
+    <b>Demographic Dashboard</b>
+</p>
 
 <img src="SS/2.png" alt="Main">
 
+<p align="center">
+    <b>Job Related Dashboard</b>
+</p>
 
-## Installation
+<img src="SS/3.png" alt="Main">
 
-Open the index.html file in a web browser (preferably Chrome).
+<p align="center">
+    <b>Payroll and Performance Dashboard</b>
+</p>
+
+<img src="SS/4.png" alt="Main">
+
+<p align="center">
+    <b>Prior Employment and Tenure Dashboard</b>
+</p>
+
+<img src="SS/5.png" alt="Main">
+
+<p align="center">
+    <b>Survey Dashboard</b>
+</p>
+
+<img src="SS/6.png" alt="Main">
 
 
-## Technologies Used
+## Opening the file
 
-1. HTML
-2. D3.js v7
+Open the Attrition Dashboard.pbix file in Power BI Desktop.
